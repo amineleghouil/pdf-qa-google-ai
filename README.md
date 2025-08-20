@@ -23,5 +23,5 @@ Interact with your PDF documents using Google Gemini embeddings and language mod
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/pdf-qa-google-ai.git
+git clone https://github.com/amineleghouil/pdf-qa-google-ai.git
 cd pdf-qa-google-ai
